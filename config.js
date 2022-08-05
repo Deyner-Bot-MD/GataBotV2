@@ -2,7 +2,7 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = []
 global.channelYT =[]
 global.owner = ['17828237137'], ['523532470551'], // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['51934299838'],
+global.mods = [''],
 global.prems = ['523532470551'],
 
 // Nota: Puedes contactarme si necesitas ayuda con algo al +994407312387 (Solo temas de la instalación)
