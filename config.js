@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = []
 global.channelYT =[]
-global.owner = ['17828237137'], ['523532470551'], // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = [''],
-global.prems = ['523532470551'],
+global.owner = ['523532470551'], // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['51934299838'],
+global.prems = ['17828237137'],
 
 // Nota: Puedes contactarme si necesitas ayuda con algo al +994407312387 (Solo temas de la instalación)
 // => Solo dudas sobre la instalación, temas generales contactarme al +593968585383 (Temas serios, si vas a intervenir al chat para molesrtar seras bloqueado/a) 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'GataBot 🐈'
-global.author = 'Gata Dios'
+global.author = 'by Deyner-MD'
 
 
 //global.wait = '*Esperé un momento..*'
